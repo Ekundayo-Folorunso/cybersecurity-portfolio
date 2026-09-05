@@ -363,6 +363,32 @@ Through this project, I developed practical experience in:
 
 This project will continue to grow as additional SOC investigations, PCAP analysis, detection exercises, incident response scenarios, and security monitoring activities are completed.
 
+## Evidence Screenshots
+
+### Wazuh Dashboard
+
+![Wazuh Dashboard](wazuh-dashboard.jpeg)
+
+### Wazuh Security Monitoring
+
+![Wazuh Security Monitoring](wazuh-security-monitoring.png)
+
+### VirusTotal Integration
+
+![VirusTotal Integration](virus-total.jpeg)
+
+### MITRE ATT&CK
+
+![MITRE ATT&CK](mitre-attck.jpeg)
+
+### EICAR Malware Detection Alert
+
+![Wazuh EICAR Malware Alert](wazuh-eicar-malware-alert.jpeg)
+
+### Security Alerts
+
+![Wazuh Security Alerts](wazuh-security-alerts.jpeg)
+
 ---
 
 ## Author
